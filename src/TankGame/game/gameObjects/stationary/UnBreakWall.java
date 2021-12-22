@@ -1,6 +1,6 @@
 package TankGame.game.gameObjects.stationary;
 
-import tankrotationexample.game.gameObjects.Collidable;
+import TankGame.game.gameObjects.Collidable;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

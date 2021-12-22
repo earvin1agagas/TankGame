@@ -1,6 +1,6 @@
 package TankGame.game;
 
-import tankrotationexample.game.gameObjects.TRE;
+import TankGame.game.gameObjects.TRE;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;

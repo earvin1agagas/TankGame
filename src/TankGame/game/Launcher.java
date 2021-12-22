@@ -1,9 +1,9 @@
 package TankGame.game;
 
 
-import tankrotationexample.game.gameObjects.TRE;
-import tankrotationexample.menus.EndGamePanel;
-import tankrotationexample.menus.StartMenuPanel;
+import TankGame.game.gameObjects.TRE;
+import TankGame.menus.EndGamePanel;
+import TankGame.menus.StartMenuPanel;
 
 import javax.swing.*;
 import java.awt.*;

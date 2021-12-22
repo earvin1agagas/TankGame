@@ -6,13 +6,13 @@
 package TankGame.game.gameObjects;
 
 
-import tankrotationexample.game.GameConstants;
-import tankrotationexample.game.Launcher;
-import tankrotationexample.game.Resource;
-import tankrotationexample.game.gameObjects.moveable.Tank;
-import tankrotationexample.game.gameObjects.moveable.TankControl;
-import tankrotationexample.game.gameObjects.stationary.BreakWall;
-import tankrotationexample.game.gameObjects.stationary.UnBreakWall;
+import TankGame.game.GameConstants;
+import TankGame.game.Launcher;
+import TankGame.game.Resource;
+import TankGame.game.gameObjects.moveable.Tank;
+import TankGame.game.gameObjects.moveable.TankControl;
+import TankGame.game.gameObjects.stationary.BreakWall;
+import TankGame.game.gameObjects.stationary.UnBreakWall;
 
 import javax.swing.*;
 import java.awt.*;

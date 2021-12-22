@@ -1,9 +1,9 @@
 package TankGame.game.gameObjects.moveable;
 
 
-import tankrotationexample.game.GameConstants;
-import tankrotationexample.game.Resource;
-import tankrotationexample.game.gameObjects.*;
+import TankGame.game.GameConstants;
+import TankGame.game.Resource;
+import TankGame.game.gameObjects.*;
 
 import java.awt.*;
 import java.awt.geom.AffineTransform;

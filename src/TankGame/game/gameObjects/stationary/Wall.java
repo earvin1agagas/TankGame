@@ -1,7 +1,7 @@
 package TankGame.game.gameObjects.stationary;
 
-import tankrotationexample.game.gameObjects.Collidable;
-import tankrotationexample.game.gameObjects.GameObjects;
+import TankGame.game.gameObjects.Collidable;
+import TankGame.game.gameObjects.GameObjects;
 
 import java.awt.*;
 
